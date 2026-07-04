@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->

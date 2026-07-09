@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3110-score-of-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3110-score-of-a-string) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 ## Prefix Sum

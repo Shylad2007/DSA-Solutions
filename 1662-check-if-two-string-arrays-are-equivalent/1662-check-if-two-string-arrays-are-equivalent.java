@@ -1,18 +1,29 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-        StringBuilder w1=new StringBuilder();
-        StringBuilder w2=new StringBuilder();
+        int p1=0,p2=0,i=0,j=0;
 
-        for(String word:word1)
-            w1.append(word);
+        while(p1<word1.length && p2<word2.length) {
+            if(word1[p1].charAt(i)!=word2[p2].charAt(j)) {
+                return false;
+            }
 
-        for(String word:word2)
-            w2.append(word);
+            i++;
+            j++;
 
+            if(i==word1[p1].length()) {
+                i=0;
+                p1++;
+            }
 
-        if((w1.toString()).equals(w2.toString()))
+            if(j==word2[p2].length()) {
+                j=0;
+                p2++;
+            }
+        }
+
+        if(p1==word1.length && p2==word2.length) {
             return true;
-        else
-            return false;
+        }
+        return false;
     }
 }

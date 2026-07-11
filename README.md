@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0724-find-pivot-index) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1903-largest-odd-number-in-string) |
 | [3110-score-of-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3110-score-of-a-string) |
 ## Math

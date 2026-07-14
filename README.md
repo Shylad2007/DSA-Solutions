@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0918-maximum-sum-circular-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

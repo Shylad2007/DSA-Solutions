@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
+| [0303-range-sum-query-immutable](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0918-maximum-sum-circular-subarray) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0724-find-pivot-index) |
 ## String Matching
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1291-sequential-digits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

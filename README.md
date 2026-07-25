@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2270-number-of-ways-to-split-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2270-number-of-ways-to-split-array) |
+| [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |
+| [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |

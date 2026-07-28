@@ -2,27 +2,26 @@ import java.util.*;
 
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int ans=0,sum=0,temp;
-        HashMap<Integer,Integer> pre=new HashMap<>();
+        HashMap<Integer,Integer> map=new HashMap<>();
+        map.put(0,1);
+        int sum=0,ans=0,temp;
 
-        pre.put(0,1);
-
-        for(int i=0;i<nums.length;i++) {
-            sum+=nums[i];
+        for(int i:nums) {
+            sum+=i;
             temp=sum-k;
 
-            if(pre.containsKey(temp)) {
-                ans+=pre.get(temp);
+            if(map.containsKey(temp)) {
+                ans+=map.get(temp);
             }
 
-            if(pre.containsKey(sum)) {
-                pre.put(sum,pre.get(sum)+1);
+            if(map.containsKey(sum)) {
+                map.put(sum,map.get(sum)+1);
             }
             else {
-                pre.put(sum,1);
+                map.put(sum,1);
             }
         }
 
-        return ans;        
+        return ans;
     }
 }

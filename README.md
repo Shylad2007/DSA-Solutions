@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0930-binary-subarrays-with-sum) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |

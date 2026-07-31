@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |

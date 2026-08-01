@@ -11,14 +11,8 @@ class Solution {
                 r--;
             }
             else if(people[l]+people[r]>limit) {
-                if(people[r]<=limit) {
-                    ans+=1;
-                    r--;
-                }
-                else if(people[l]<=limit) {
-                    ans+=1;
-                    l++;
-                }
+                ans+=1;
+                r--;
             }
         }
         return ans;

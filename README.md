@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0881-boats-to-save-people) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0881-boats-to-save-people) |
 ## Union-Find
 |  |
 | ------- |

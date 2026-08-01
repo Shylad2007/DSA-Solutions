@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0049-group-anagrams) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0125-valid-palindrome) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |

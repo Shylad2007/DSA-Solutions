@@ -20,6 +20,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0303-range-sum-query-immutable) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0128-longest-consecutive-sequence](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0525-contiguous-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting

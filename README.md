@@ -1,5 +1,5 @@
 # DSA-Solution-List
-A collection of LeetCode questions to ace the coding interview!
+A collection of LeetCode questions done by me to help others understand more clearly about DSA!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

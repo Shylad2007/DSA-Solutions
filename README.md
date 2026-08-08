@@ -11,6 +11,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0015-3sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0053-maximum-subarray) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |

@@ -40,6 +40,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2270-number-of-ways-to-split-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2270-number-of-ways-to-split-array) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
@@ -221,4 +222,8 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

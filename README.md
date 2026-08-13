@@ -32,6 +32,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0713-subarray-product-less-than-k) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0713-subarray-product-less-than-k) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |

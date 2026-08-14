@@ -37,6 +37,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0704-binary-search](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0930-binary-subarrays-with-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0540-single-element-in-a-sorted-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |

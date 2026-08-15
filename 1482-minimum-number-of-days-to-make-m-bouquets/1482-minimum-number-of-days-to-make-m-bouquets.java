@@ -1,25 +1,4 @@
 class Solution {
-    public boolean bouquetPossible(int[] nums, int day, int m, int k) {
-        int l=0;
-        for(int r=0;r<nums.length;r++) {
-            if((r-l+1)>k) {
-                l=r;
-            }
-
-            if(nums[r]<=day && (r-l+1)==k) {
-                m--;
-            }
-            else if(nums[r]>day) {
-                l=r+1;
-            }
-        }
-
-        if(m>0)
-            return false;
-        else
-            return true; 
-    }
-
     public int minDays(int[] bloomDay, int m, int k) {
         int start=Integer.MAX_VALUE,end=Integer.MIN_VALUE,ans=-1;
 
@@ -34,12 +13,26 @@ class Solution {
         while(start<=end) {
             int mid=start+(end-start)/2;
 
-            if(bouquetPossible(bloomDay, mid, m, k)) {
-                ans=mid;
-                end=mid-1;
+            int l=0,tempm=m,tempk=k;
+            for(int r=0;r<bloomDay.length;r++) {
+                if((r-l+1)>tempk) {
+                    l=r;
+                }
+
+                if(bloomDay[r]<=mid && (r-l+1)==tempk) {
+                    tempm--;
+                }
+                else if(bloomDay[r]>mid) {
+                    l=r+1;
+                }
+            }
+
+            if(tempm>0) {
+                start=mid+1;
             }
             else {
-                start=mid+1;
+                ans=mid;
+                end=mid-1;
             }
         }
         return ans;

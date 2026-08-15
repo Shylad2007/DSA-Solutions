@@ -10,7 +10,11 @@ class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int orgsum=arrayDividedSum(nums,1);
 
-        int start=1,end=orgsum;
+        int start=1,end=0;
+        for(int i:nums) {
+            end=Math.max(end,i);
+        }
+        
         int ans=-1;
         while(start<=end) {
             int mid=start+(end-start)/2;

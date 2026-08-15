@@ -42,6 +42,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0918-maximum-sum-circular-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1732-find-the-highest-altitude) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0704-binary-search](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |

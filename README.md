@@ -248,4 +248,8 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

@@ -95,6 +95,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |

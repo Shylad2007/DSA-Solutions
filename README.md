@@ -91,6 +91,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1903-largest-odd-number-in-string) |
@@ -256,7 +257,12 @@ A collection of LeetCode questions done by me to help others understand more cle
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

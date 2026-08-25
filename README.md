@@ -259,10 +259,12 @@ A collection of LeetCode questions done by me to help others understand more cle
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

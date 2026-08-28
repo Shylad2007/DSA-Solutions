@@ -54,6 +54,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [2270-number-of-ways-to-split-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2270-number-of-ways-to-split-array) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3668-restore-finishing-order](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
+| [3668-restore-finishing-order](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |

@@ -113,6 +113,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0061-rotate-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0283-move-zeroes) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | ------- |
 | [0049-group-anagrams](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0219-contains-duplicate-ii) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0024-swap-nodes-in-pairs](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -273,4 +276,8 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0002-add-two-numbers](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0024-swap-nodes-in-pairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

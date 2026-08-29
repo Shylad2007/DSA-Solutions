@@ -121,6 +121,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0443-string-compression](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0881-boats-to-save-people) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
@@ -270,6 +271,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0086-partition-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

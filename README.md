@@ -76,6 +76,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0005-longest-palindromic-substring](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0125-valid-palindrome) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -289,4 +291,8 @@ A collection of LeetCode questions done by me to help others understand more cle
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

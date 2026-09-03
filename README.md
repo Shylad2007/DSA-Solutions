@@ -171,6 +171,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |

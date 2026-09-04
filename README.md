@@ -90,6 +90,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0020-valid-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
+| [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |

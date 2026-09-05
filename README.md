@@ -21,6 +21,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1903-largest-odd-number-in-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |

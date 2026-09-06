@@ -83,6 +83,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0049-group-anagrams](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0042-trapping-rain-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -297,6 +299,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0002-add-two-numbers](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

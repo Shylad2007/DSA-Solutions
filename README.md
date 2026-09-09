@@ -71,6 +71,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0042-trapping-rain-water](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0049-group-anagrams](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0443-string-compression) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0189-rotate-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0567-permutation-in-string) |

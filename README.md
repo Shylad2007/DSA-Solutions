@@ -90,6 +90,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0443-string-compression](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0856-score-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0856-score-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -312,4 +314,5 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->

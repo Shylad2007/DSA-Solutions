@@ -47,6 +47,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0394-decode-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0856-score-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3069-distribute-elements-into-two-arrays-i) |

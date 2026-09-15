@@ -172,6 +172,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | ------- |
 | [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
@@ -325,4 +327,8 @@ A collection of LeetCode questions done by me to help others understand more cle
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0856-score-of-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

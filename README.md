@@ -171,6 +171,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
@@ -186,6 +187,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
@@ -272,6 +274,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [0071-simplify-path](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Shylad2007/DSA-Solution-List/tree/master/0856-score-of-parentheses) |

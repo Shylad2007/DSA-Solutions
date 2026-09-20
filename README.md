@@ -102,6 +102,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [1929-concatenation-of-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |

@@ -58,6 +58,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [2270-number-of-ways-to-split-array](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2270-number-of-ways-to-split-array) |
 | [2540-minimum-common-value](https://github.com/Shylad2007/DSA-Solution-List/tree/master/2540-minimum-common-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -112,6 +113,7 @@ A collection of LeetCode questions done by me to help others understand more cle
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Shylad2007/DSA-Solution-List/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shylad2007/DSA-Solution-List/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
